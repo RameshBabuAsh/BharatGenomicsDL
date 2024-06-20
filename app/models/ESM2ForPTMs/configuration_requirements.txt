@@ -1,0 +1,3 @@
+RAM - 1 to 2 GB
+Storage - 3 to 4 GB
+Time - 10 seconds in CPU
